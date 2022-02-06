@@ -36,6 +36,7 @@ namespace degiskenler
            string newvariable = str + int20.ToString(); //string yapma
            int int21 = int20 + Convert.ToInt32(str); //int yapma
            int int22 = int20 + int.Parse(str);
+           
 
 
 
