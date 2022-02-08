@@ -1,0 +1,15 @@
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/obj/Debug/net6.0/degiskenler.csproj.AssemblyReference.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/obj/Debug/net6.0/degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/obj/Debug/net6.0/degiskenler.AssemblyInfoInputs.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/obj/Debug/net6.0/degiskenler.AssemblyInfo.cs
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/obj/Debug/net6.0/degiskenler.csproj.CoreCompileInputs.cache
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/bin/Debug/net6.0/degiskenler
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/bin/Debug/net6.0/degiskenler.deps.json
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/bin/Debug/net6.0/degiskenler.runtimeconfig.json
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/bin/Debug/net6.0/degiskenler.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/bin/Debug/net6.0/ref/degiskenler.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/bin/Debug/net6.0/degiskenler.pdb
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/obj/Debug/net6.0/degiskenler.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/obj/Debug/net6.0/ref/degiskenler.dll
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/obj/Debug/net6.0/degiskenler.pdb
+/Users/umitpasahz/Desktop/Ümit/Yazılım/Patika/degiskenler/obj/Debug/net6.0/degiskenler.genruntimeconfig.cache
